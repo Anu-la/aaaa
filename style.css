@@ -1,0 +1,15 @@
+h1 {
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-display:block ;
+    padding: 25;
+    text-align:start center;
+}
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30;
+    text-align:start center;
+    
+    
+}
